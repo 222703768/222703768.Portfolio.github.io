@@ -48,7 +48,9 @@ Motivated and detail-oriented IT student currently completing a Diploma in ICT A
 - **Mr. Mackenzie Nyabadza** – Esiqiwini High School  
   Contact: [064 230 8203](tel:0642308203) | Email: nyabadzamn@gmail.com  
 - **Miss Thulisile N Sibiya** – Esiqiwini High School  
-  Contact: [079 858 4137](tel:0798584137)  
+  Contact: [079 858 4137](tel:0798584137)
+
+  ---
 
 🎥Mock Video Introduction
 
@@ -61,7 +63,7 @@ Motivated and detail-oriented IT student currently completing a Diploma in ICT A
     allowfullscreen>
   </iframe>
 </div>
----
+
 
 ##  Reflections
 
