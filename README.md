@@ -59,7 +59,6 @@ Motivated and detail-oriented IT student currently completing a Diploma in ICT A
   Your browser does not support the video tag.
 </video>
 
-
 ---
 ##  Reflections
 
