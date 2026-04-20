@@ -1,37 +1,48 @@
 # 222703768.Portfolio.github.io
-# 📞 Contact Me
+# Contact Me
 - **Email:** 222703768@mycput.a.za  
 - **Phone:** 0607056310  
 - **Address:** 10 Dorset Street  
 
 ---
 
-# 👤 About Me
+# About Me
 Motivated and detail-oriented IT student currently completing a Diploma in ICT Application Development at Cape Peninsula University of Technology. Skilled in communication, problem solving, and building strong client relationships. Passionate about leveraging technology to create practical solutions, including mobile app development, and committed to contributing to community-focused initiatives.
 
 ---
 
-# 🎓 Education
+# Education
 - **Esiqiwini High School** – Matric  
 - **Cape Peninsula University of Technology** – Higher Certificate in ICT (2022)  
 - **Cape Peninsula University of Technology** – Diploma in ICT Application Development (Present – 3rd Year Student, 2026)  
 
 ---
 
-# 💻 Technical Skills
+#Technical Skills
 - **Programming:** Java, JavaScript  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Tools:** Git, VS Code, IntelliJ, NetBeans  
 - **Database:** SQL Basics  
-- **Soft Skills:** Problem Solving, Communication, Teamwork, Adaptability  
+- **Soft Skills:** Problem Solving, Communication, Teamwork, Adaptability
 
 ---
+# Experience and Projects
 
+###  MyCiTi App Redesign Prototype (Project Coordinator)
+- Redesigned the MyCiTi mobile app interface to improve user experience and navigation.
+- Conducted **user research** to identify pain points.
+- Created **wireframes** and interactive prototypes using **Figma**.
+- Improved **accessibility** and usability of the app design.
+
+###  Student Expense Tracker App (Project Coordinator)
+- Developed a website to track expenses and visualize spending habits using **Java**.
+- Coordinated project tasks and ensured timely delivery.
+
+---
 # 📂 CV
 [![View My CV](https://img.shields.io/badge/View%20My%20CV-blue)](https://github.com/wil-it-2026/cv-submission-222703768/blob/main/Nondumiso%20Ngobese%20CV.pdf)
 
 ---
-
 # 📞 References
 - **Mr. Mackenzie Nyabadza** – Esiqiwini High School  
   Contact: [064 230 8203](tel:0642308203) | Email: nyabadzamn@gmail.com  
