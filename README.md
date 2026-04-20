@@ -54,17 +54,10 @@ Motivated and detail-oriented IT student currently completing a Diploma in ICT A
 
 🎥Mock Video Introduction
 
-<div align="center">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/Video" 
-    title="Mock Video Introduction" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-
+<video width="600" controls>
+  <source src="MockVideo.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
 ##  Reflections
 
 ### Reflection on Coding My CV in Markdown
