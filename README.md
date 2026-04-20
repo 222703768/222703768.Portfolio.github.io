@@ -18,7 +18,7 @@ Motivated and detail-oriented IT student currently completing a Diploma in ICT A
 
 ---
 
-#Technical Skills
+# Technical Skills
 - **Programming:** Java, JavaScript  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Tools:** Git, VS Code, IntelliJ, NetBeans  
