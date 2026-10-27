@@ -124,6 +124,181 @@ I created a repository, uploaded my Markdown and media files, and enabled GitHub
 The portfolio was successfully deployed and accessible online. This strengthened my understanding of version control, hosting, and deployment, while also improving my troubleshooting skills. It gave me valuable experience with GitHub Pages and prepared me to manage and publish web-based projects effectively.
 
 ---
+# 🔴 PartLink Project – Agile Portfolio
+
+## 📌 1. Agile Team Charter (PartLink Project)
+
+📁 **Evidence:** [View Agile Team Charter](https://sesethu04.github.io/sesethu04.Portfolio.github.io/Agile%20Team%20Charter%20Partlink.docx)
+
+**🎯 Objective:** To develop a trusted digital marketplace connecting vehicle owners, mechanics, small transport operators, and verified car parts sellers in Khayelitsha.
+
+**👥 Team Members:** Hillary Itlhaboyeng, Inam Klaas, Onika Gobane, Siphesihle Khinase, Sesethu Nciti, Nondumiso Ngobese, and Liyabona Ngece.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+
+I joined the PartLink group after the team had already started working on the project and establishing its Agile workflow.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+
+Understand the project's objectives, team responsibilities, communication methods, and working agreements.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+
+Familiarised myself with the existing team structure and the processes used to organise and coordinate project activities.
+
+---
+
+## 🟠 Result (Outcomes and Learning)
+
+Developed an understanding of the team's goals, collaborative responsibilities, and Agile working practices.
+
+---
+
+# 📌 2. User Stories and Tasks (PartLink Project)
+
+📁 **Evidence:**
+
+- [PartLink Marketplace User Stories PDF](https://sesethu04.github.io/sesethu04.Portfolio.github.io/PartLink_User_Stories.pdf)
+- [Sprint-by-Sprint Task Breakdown PDF](https://sesethu04.github.io/sesethu04.Portfolio.github.io/User%20Stories.pdf)
+
+**📖 Overview:** The team used user stories to describe the needs of different marketplace users and break project requirements into manageable development tasks. Priorities were organised using the MoSCoW method: Must, Should, and Could.
+
+**👥 Core User Groups:** Car owners, mechanics, small transport businesses, sellers, car enthusiasts, and administrators.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+
+I joined after the project planning process had begun and needed to understand the features and requirements already identified by the team.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+
+Familiarise myself with the user stories, acceptance criteria, and tasks associated with the PartLink marketplace.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+
+Reviewed the documented requirements to understand how marketplace features were organised and connected to the team's development workflow.
+
+---
+
+## 🟠 Result (Outcomes and Learning)
+
+Improved my understanding of how user needs are translated into clear requirements and actionable development tasks.
+
+---
+
+# 📌 3. Product Backlog (PartLink Project)
+
+📁 **Evidence:** [View PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
+
+**📖 Overview:** The product backlog contains the project's planned features, requirements, improvements, and tasks, organised according to priority.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+
+The team was already using Trello to organise project activities when I joined.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+
+Understand how the product backlog was structured and how tasks were prioritised and tracked.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+
+Familiarised myself with the existing Trello workflow and used the taskboard to follow project activities and priorities.
+
+---
+
+## 🟠 Result (Outcomes and Learning)
+
+Gained practical insight into backlog management, task organisation, and how Agile teams maintain visibility of project progress.
+
+---
+
+# 📌 4. Sprint Backlog – Sprint 8
+
+📁 **Evidence:** [View PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
+
+**📖 Overview:** The PartLink project used sprint planning to organise development activities into manageable stages. I joined the group later and participated in the work associated with Sprint 8.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+
+The team had already completed earlier project activities before I joined.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+
+Participate in Sprint 8 and follow the team's established sprint workflow.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+
+Worked within the existing Trello taskboard to follow Sprint 8 activities and participate in the team's ongoing project process.
+
+---
+
+## 🟠 Result (Outcomes and Learning)
+
+Developed a better understanding of sprint planning, task tracking, and collaboration within an established Agile team.
+
+---
+
+# 📌 5. Personal Agile Logbook
+
+📁 **Evidence:** [Insert your personal Agile Logbook link](#)
+
+**📖 Overview:** My personal Agile Logbook records my activities, progress, challenges, and learning after joining the PartLink group.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+
+I joined the project after the team had already established its Trello workflow.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+
+Document my own participation and learning throughout my involvement in the project.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+
+Recorded my project activities and experiences in my personal Agile Logbook.
+
+---
+
+## 🟠 Result (Outcomes and Learning)
+
+Developed my understanding of Agile practices, team collaboration, and adapting to an ongoing software development project.
+
+---
+
+# 💭 Personal Reflection
+
+Joining the PartLink group after the project had started taught me the importance of adapting to an established workflow, understanding existing requirements, and communicating with team members. My participation in Sprint 8 helped me gain a better understanding of Agile sprint management and the use of Trello to organise project tasks.
+
+**🛠️ Key Learning Areas:** Agile Methodology · Trello · User Stories · Product Backlog · Sprint Management · Team Collaboration
+
 🔴 PartLink Project – Agile Portfolio
 ## 📁 Evidence: Personal Agile Logbook & Trello Taskboard
 
