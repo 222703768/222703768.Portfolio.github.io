@@ -104,7 +104,7 @@ The embedded video added a dynamic element to my portfolio. This task improved m
 
 ---
 
-### Reflection on Using GitHub Pages
+### Reflection: Using GitHub Pages
 🟡 **Situation (Context and Understanding of the Task)**  
 The final stage of the assignment was to publish my portfolio using GitHub Pages. This required me to demonstrate practical knowledge of hosting and deployment while applying version control skills.
 
@@ -124,4 +124,88 @@ I created a repository, uploaded my Markdown and media files, and enabled GitHub
 The portfolio was successfully deployed and accessible online. This strengthened my understanding of version control, hosting, and deployment, while also improving my troubleshooting skills. It gave me valuable experience with GitHub Pages and prepared me to manage and publish web-based projects effectively.
 
 ---
+🔴 PartLink Project – Agile Portfolio
+## 📁 Evidence: Personal Agile Logbook & Trello Taskboard
+
+- **Overview:** I joined the PartLink project after the team had already started using Trello to organise tasks and track project progress. I continued from the existing workflow, familiarised myself with the project activities, and participated in the team's ongoing Agile process. My logbook documents my involvement, progress, and learning from the time I joined, including my participation in Sprint 8.
+
+### 📄 Agile Logbook
+
+- **Personal Agile Logbook:** [Insert your logbook link here]
+- **Trello Taskboard:** [View PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
+
+### 📌 Key Activities
+
+- **Joining an Existing Team:** Familiarised myself with the PartLink project, its objectives, and the team's existing Trello workflow.
+- **Trello Task Management:** Continued working within the established taskboard to follow sprint activities and monitor project progress.
+- **Sprint 8 Participation:** Participated in Sprint 8 as part of the team's ongoing project development process.
+- **Agile Learning:** Gained experience in adapting to an established team, following sprint workflows, and collaborating towards shared project goals.
+
+📌 1. Agile Team Charter
+
+🔴 Situation: I joined the PartLink group after the initial team formation.
+
+🔵 Task: Understand the project objectives, team roles, communication methods, and working agreements.
+
+🟢 Action: Familiarised myself with the team charter and the project's goal of connecting vehicle owners, mechanics, and car parts sellers in Khayelitsha.
+
+🟠 Result: Gained an understanding of the team's structure, shared responsibilities, and Agile working practices.
+
+📂 Evidence: View Agile Team Charter
+
+📌 2. User Stories & Tasks
+
+🔴 Situation: I needed to understand the requirements and features planned for the PartLink marketplace.
+
+🔵 Task: Review the user stories, acceptance criteria, and development tasks.
+
+🟢 Action: Used the documented requirements to familiarise myself with the expected features and development priorities.
+
+🟠 Result: Improved my understanding of how user needs are translated into manageable development tasks.
+
+📂 Evidence: User Stories PDF | Task Breakdown PDF
+
+📌 3. Product Backlog
+
+🔴 Situation: The team needed an organised way to manage project requirements and priorities.
+
+🔵 Task: Understand how backlog items are prioritised and tracked.
+
+🟢 Action: Familiarised myself with the team's Trello board and its task-management workflow.
+
+🟠 Result: Learned how a product backlog supports organisation, transparency, and project planning.
+
+📂 Evidence: Open PartLink Trello Board
+
+📌 4. Sprint Backlog – Sprint 8
+
+🔴 Situation: I joined the project after the earlier sprints had started.
+
+🔵 Task: Participate in Sprint 8 and work with the team's sprint tasks on Trello.
+
+🟢 Action: Engaged with the Sprint 8 taskboard and followed the team's workflow.
+
+🟠 Result: Gained practical experience with sprint planning, task tracking, and collaboration within an established Agile team.
+
+📂 Evidence: View PartLink Trello Board
+
+📌 5. Personal Agile Logbook
+
+🔴 Situation: I joined the PartLink group later in the project.
+
+🔵 Task: Maintain a record of my own activities, progress, and learning.
+
+🟢 Action: Documented my participation and experiences in my personal Agile Logbook.
+
+🟠 Result: Developed a clearer understanding of Agile teamwork, communication, and adapting to an existing project workflow.
+
+📂 Evidence: Insert the link to my personal Agile Logbook here.
+
+💭 Personal Reflection
+
+Joining the PartLink team later in the project taught me the importance of adapting to an established team, understanding existing requirements, and collaborating effectively. Participating in Sprint 8 helped me develop my understanding of Agile task management and sprint workflows.
+
+Key Learning Areas: 🔴 Agile Methodology · 🔵 Trello · 🟢 Team Collaboration · 🟠 Sprint Management
+
+
 
