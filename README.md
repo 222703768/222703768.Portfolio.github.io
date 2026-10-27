@@ -1,6 +1,7 @@
 # 222703768.Portfolio.github.io
 
 # Contact Me
+
 - **Email:** 222703768@mycput.a.za
 - **Phone:** 0607056310
 - **Address:** 10 Dorset Street
@@ -9,11 +10,13 @@
 ---
 
 # About Me
+
 Motivated and detail-oriented IT student currently completing a Diploma in ICT Application Development at Cape Peninsula University of Technology. Skilled in communication, problem solving, and building strong client relationships. Passionate about leveraging technology to create practical solutions, including mobile app development, and committed to contributing to community-focused initiatives.
 
 ---
 
 # Education
+
 - **Esiqiwini High School** – Matric
 - **Cape Peninsula University of Technology** – Higher Certificate in ICT (2022)
 - **Cape Peninsula University of Technology** – Diploma in ICT Application Development (Present – 3rd Year Student, 2026)
@@ -21,6 +24,7 @@ Motivated and detail-oriented IT student currently completing a Diploma in ICT A
 ---
 
 # Technical Skills
+
 - **Programming:** Java, JavaScript
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools:** Git, VS Code, IntelliJ, NetBeans
@@ -32,25 +36,30 @@ Motivated and detail-oriented IT student currently completing a Diploma in ICT A
 # Experience and Projects
 
 ### MyCiTi App Redesign Prototype (Project Coordinator)
+
 - Redesigned the MyCiTi mobile app interface to improve user experience and navigation.
 - Conducted **user research** to identify pain points.
 - Created **wireframes** and interactive prototypes using **Figma**.
 - Improved **accessibility** and usability of the app design.
 
 ### Student Expense Tracker App (Project Coordinator)
+
 - Developed a website to track expenses and visualize spending habits using **Java**.
 - Coordinated project tasks and ensured timely delivery.
 
 ---
 
 # 📂 CV
+
 [![View My CV](https://img.shields.io/badge/View%20My%20CV-blue)](https://github.com/wil-it-2026/cv-submission-222703768/blob/main/Nondumiso%20Ngobese%20CV.pdf)
 
 ---
 
 # References
+
 - **Mr. Mackenzie Nyabadza** – Esiqiwini High School  
   Contact: [064 230 8203](tel:0642308203) | Email: [nyabadzamn@gmail.com](mailto:nyabadzamn@gmail.com)
+
 - **Miss Thulisile N Sibiya** – Esiqiwini High School  
   Contact: [079 858 4137](tel:0798584137)
 
@@ -69,66 +78,78 @@ Motivated and detail-oriented IT student currently completing a Diploma in ICT A
 
 ### Reflection on Coding My CV in Markdown
 
-🟡 **Situation (Context and Understanding of the Task)**  
+🟡 **Situation (Context and Understanding of the Task)**
+
 For my portfolio assignment at CPUT, I needed to present my CV in a digital format using Markdown. The goal was to show that I could use modern documentation practices and adapt traditional content into a format that aligns with industry standards.
 
 ---
 
-🔵 **Task (Application of Knowledge and Skills)**  
+🔵 **Task (Application of Knowledge and Skills)**
+
 My responsibility was to restructure my CV into Markdown while keeping it professional and easy to navigate. This meant organizing sections such as personal details, education, skills, and projects with clear syntax so the document could be integrated seamlessly into my portfolio.
 
 ---
 
-🟢 **Action (Implementation and Problem-Solving)**  
+🟢 **Action (Implementation and Problem-Solving)**
+
 I applied Markdown features like headings, lists, and emphasis to create a logical flow. I focused on consistency and readability, simplifying where necessary to avoid clutter. I tested the document on different platforms to confirm that the formatting displayed correctly and adjusted where needed.
 
 ---
 
-🔴 **Result (Reflection and Learning)**  
+🔴 **Result (Reflection and Learning)**
+
 The finished CV was clean, structured, and professional. Through this task, I strengthened my ability to use Markdown effectively, improved my attention to detail, and gained confidence in preparing technical documents for digital environments.
 
 ---
 
 ### Reflection on Embedding My Video Introduction
 
-🟡 **Situation (Context and Understanding of the Task)**  
+🟡 **Situation (Context and Understanding of the Task)**
+
 Another requirement was to include a video introduction in my portfolio. This was intended to combine technical skills with professional presentation, allowing me to showcase both my background and my ability to integrate multimedia.
 
 ---
 
-🔵 **Task (Application of Knowledge and Skills)**  
+🔵 **Task (Application of Knowledge and Skills)**
+
 I had to record a short video and embed it into my portfolio using HTML inside Markdown. This required understanding how Markdown supports HTML and ensuring the video was accessible and functional across different devices.
 
 ---
 
-🟢 **Action (Implementation and Problem-Solving)**  
+🟢 **Action (Implementation and Problem-Solving)**
+
 I created a video that introduced my academic journey, skills, and career goals. I embedded it using HTML with attributes such as width and playback controls to improve usability. I tested the video multiple times, fixed linking issues, and ensured compatibility with supported formats.
 
 ---
 
-🔴 **Result (Reflection and Learning)**  
+🔴 **Result (Reflection and Learning)**
+
 The embedded video added a dynamic element to my portfolio. This task improved my ability to integrate multimedia into documentation, taught me the importance of accessibility, and increased my confidence in presenting myself digitally.
 
 ---
 
 ### Reflection: Using GitHub Pages
 
-🟡 **Situation (Context and Understanding of the Task)**  
+🟡 **Situation (Context and Understanding of the Task)**
+
 The final stage of the assignment was to publish my portfolio using GitHub Pages. This required me to demonstrate practical knowledge of hosting and deployment while applying version control skills.
 
 ---
 
-🔵 **Task (Application of Knowledge and Skills)**  
+🔵 **Task (Application of Knowledge and Skills)**
+
 I needed to set up a repository, upload my portfolio files, and configure GitHub Pages to host the site. This involved managing file structures, ensuring correct linking, and making sure all portfolio elements displayed properly online.
 
 ---
 
-🟢 **Action (Implementation and Problem-Solving)**  
+🟢 **Action (Implementation and Problem-Solving)**
+
 I created a repository, uploaded my Markdown and media files, and enabled GitHub Pages. I organized the file structure carefully and resolved issues with file paths through troubleshooting and repeated testing. I committed updates until the site rendered correctly.
 
 ---
 
-🔴 **Result (Reflection and Learning)**  
+🔴 **Result (Reflection and Learning)**
+
 The portfolio was successfully deployed and accessible online. This strengthened my understanding of version control, hosting, and deployment, while also improving my troubleshooting skills. It gave me valuable experience with GitHub Pages and prepared me to manage and publish web-based projects effectively.
 
 ---
@@ -272,12 +293,24 @@ Developed a better understanding of sprint planning, task tracking, and collabor
 
 # 📌 5. Personal Agile Logbook
 
-📁 **Evidence:**
+📁 **Evidence: Personal Agile Logbooks and Trello Taskboard**
 
-- [View PartLink Agile Logbook 1 in Word Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25201.docx)
-- [View PartLink Agile Logbook 2 in Word Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25202.docx)
+**📖 Overview:** My personal Agile Logbooks record my activities, progress, challenges, and learning after joining the PartLink group. They document my participation in the team's ongoing Agile process, including Sprint 8.
 
-**📖 Overview:** My personal Agile Logbook records my activities, progress, challenges, and learning after joining the PartLink group.
+### 📄 Agile Logbook Documents
+
+- [View PartLink Agile Logbook – Part 1](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25201.docx)
+
+- [View PartLink Agile Logbook – Part 2](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25202.docx)
+
+- [View PartLink Agile Logbook – Part 3](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook_Nondumiso.docx)
+
+### 📌 Key Activities
+
+- **Joining an Existing Team:** Familiarised myself with the PartLink project, its objectives, and the team's existing Trello workflow.
+- **Trello Task Management:** Continued working within the established taskboard to follow sprint activities and monitor project progress.
+- **Sprint 8 Participation:** Participated in Sprint 8 as part of the team's ongoing project development process.
+- **Agile Learning:** Gained experience in adapting to an established team, following sprint workflows, and collaborating towards shared project goals.
 
 ---
 
@@ -295,7 +328,7 @@ Document my own participation and learning throughout my involvement in the proj
 
 ## 🟢 Action (Implementation and Problem-Solving)
 
-Recorded my project activities and experiences in my personal Agile Logbook.
+Recorded my project activities and experiences in my personal Agile Logbooks and familiarised myself with the team's existing task-management process.
 
 ---
 
@@ -317,11 +350,14 @@ Joining the PartLink group after the project had started taught me the importanc
 
 ## 📁 Evidence: Personal Agile Logbook & Trello Taskboard
 
-- **Overview:** I joined the PartLink project after the team had already started using Trello to organise tasks and track project progress. I continued from the existing workflow, familiarised myself with the project activities, and participated in the team's ongoing Agile process. My logbook documents my involvement, progress, and learning from the time I joined, including my participation in Sprint 8.
+- **Overview:** I joined the PartLink project after the team had already started using Trello to organise tasks and track project progress. I continued from the existing workflow, familiarised myself with the project activities, and participated in the team's ongoing Agile process. My logbooks document my involvement, progress, and learning from the time I joined, including my participation in Sprint 8.
 
 ### 📄 Agile Logbook
 
-- **Personal Agile Logbook:** [View PartLink Agile Logbook 1 in Word Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25201.docx)
+- **Personal Agile Logbook – Part 1:** [View Logbook 1](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25201.docx)
+- **Personal Agile Logbook – Part 2:** [View Logbook 2](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25202.docx)
+- **Personal Agile Logbook – Part 3:** [View Logbook 3](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook_Nondumiso.docx)
+
 - **Trello Taskboard:** [View PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
 
 ### 📌 Key Activities
@@ -331,68 +367,84 @@ Joining the PartLink group after the project had started taught me the importanc
 - **Sprint 8 Participation:** Participated in Sprint 8 as part of the team's ongoing project development process.
 - **Agile Learning:** Gained experience in adapting to an established team, following sprint workflows, and collaborating towards shared project goals.
 
+---
+
 ## 📌 1. Agile Team Charter
 
-🔴 Situation: I joined the PartLink group after the initial team formation.
+🔴 **Situation:** I joined the PartLink group after the initial team formation.
 
-🔵 Task: Understand the project objectives, team roles, communication methods, and working agreements.
+🔵 **Task:** Understand the project objectives, team roles, communication methods, and working agreements.
 
-🟢 Action: Familiarised myself with the team charter and the project's goal of connecting vehicle owners, mechanics, and car parts sellers in Khayelitsha.
+🟢 **Action:** Familiarised myself with the team charter and the project's goal of connecting vehicle owners, mechanics, and car parts sellers in Khayelitsha.
 
-🟠 Result: Gained an understanding of the team's structure, shared responsibilities, and Agile working practices.
+🟠 **Result:** Gained an understanding of the team's structure, shared responsibilities, and Agile working practices.
 
-📂 Evidence: [View Agile Team Charter](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FAgile%2520Team%2520Charter.docx)
+📂 **Evidence:** [View Agile Team Charter](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FAgile%2520Team%2520Charter.docx)
+
+---
 
 ## 📌 2. User Stories & Tasks
 
-🔴 Situation: I needed to understand the requirements and features planned for the PartLink marketplace.
+🔴 **Situation:** I needed to understand the requirements and features planned for the PartLink marketplace.
 
-🔵 Task: Review the user stories, acceptance criteria, and development tasks.
+🔵 **Task:** Review the user stories, acceptance criteria, and development tasks.
 
-🟢 Action: Used the documented requirements to familiarise myself with the expected features and development priorities.
+🟢 **Action:** Used the documented requirements to familiarise myself with the expected features and development priorities.
 
-🟠 Result: Improved my understanding of how user needs are translated into manageable development tasks.
+🟠 **Result:** Improved my understanding of how user needs are translated into manageable development tasks.
 
-📂 Evidence: [User Stories PDF](PartLink_User_Stories.pdf) | [Task Breakdown PDF](User%20Stories.pdf)
+📂 **Evidence:**
+
+- [PartLink Marketplace User Stories PDF](PartLink_User_Stories.pdf)
+- [Sprint-by-Sprint Task Breakdown PDF](User%20Stories.pdf)
+
+---
 
 ## 📌 3. Product Backlog
 
-🔴 Situation: The team needed an organised way to manage project requirements and priorities.
+🔴 **Situation:** The team needed an organised way to manage project requirements and priorities.
 
-🔵 Task: Understand how backlog items are prioritised and tracked.
+🔵 **Task:** Understand how backlog items are prioritised and tracked.
 
-🟢 Action: Familiarised myself with the team's Trello board and its task-management workflow.
+🟢 **Action:** Familiarised myself with the team's Trello board and its task-management workflow.
 
-🟠 Result: Learned how a product backlog supports organisation, transparency, and project planning.
+🟠 **Result:** Learned how a product backlog supports organisation, transparency, and project planning.
 
-📂 Evidence: [Open PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
+📂 **Evidence:** [Open PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
+
+---
 
 ## 📌 4. Sprint Backlog – Sprint 8
 
-🔴 Situation: I joined the project after the earlier sprints had started.
+🔴 **Situation:** I joined the project after the earlier sprints had started.
 
-🔵 Task: Participate in Sprint 8 and work with the team's sprint tasks on Trello.
+🔵 **Task:** Participate in Sprint 8 and work with the team's sprint tasks on Trello.
 
-🟢 Action: Engaged with the Sprint 8 taskboard and followed the team's workflow.
+🟢 **Action:** Engaged with the Sprint 8 taskboard and followed the team's workflow.
 
-🟠 Result: Gained practical experience with sprint planning, task tracking, and collaboration within an established Agile team.
+🟠 **Result:** Gained practical experience with sprint planning, task tracking, and collaboration within an established Agile team.
 
-📂 Evidence: [View PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
+📂 **Evidence:** [View PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
+
+---
 
 ## 📌 5. Personal Agile Logbook
 
-🔴 Situation: I joined the PartLink group later in the project.
+🔴 **Situation:** I joined the PartLink group later in the project.
 
-🔵 Task: Maintain a record of my own activities, progress, and learning.
+🔵 **Task:** Maintain a record of my own activities, progress, and learning.
 
-🟢 Action: Documented my participation and experiences in my personal Agile Logbook.
+🟢 **Action:** Documented my participation and experiences in my personal Agile Logbooks.
 
-🟠 Result: Developed a clearer understanding of Agile teamwork, communication, and adapting to an existing project workflow.
+🟠 **Result:** Developed a clearer understanding of Agile teamwork, communication, and adapting to an existing project workflow.
 
-📂 Evidence:
+📂 **Evidence:**
 
-- [View PartLink Agile Logbook 1 in Word Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25201.docx)
-- [View PartLink Agile Logbook 2 in Word Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25202.docx)
+- [View Agile Logbook – Part 1](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25201.docx)
+- [View Agile Logbook – Part 2](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook%25202.docx)
+- [View Agile Logbook – Part 3](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2F222703768.github.io%2F222703768.Portfolio.github.io%2FPartLink_Agile_Logbook_Nondumiso.docx)
+
+---
 
 ## 💭 Personal Reflection
 
