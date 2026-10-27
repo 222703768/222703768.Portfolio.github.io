@@ -141,7 +141,7 @@ The portfolio was successfully deployed and accessible online. This strengthened
 - **Sprint 8 Participation:** Participated in Sprint 8 as part of the team's ongoing project development process.
 - **Agile Learning:** Gained experience in adapting to an established team, following sprint workflows, and collaborating towards shared project goals.
 
-📌 1. Agile Team Charter
+## 📌 1. Agile Team Charter
 
 🔴 Situation: I joined the PartLink group after the initial team formation.
 
@@ -153,7 +153,7 @@ The portfolio was successfully deployed and accessible online. This strengthened
 
 📂 Evidence: View Agile Team Charter
 
-📌 2. User Stories & Tasks
+## 📌 2. User Stories & Tasks
 
 🔴 Situation: I needed to understand the requirements and features planned for the PartLink marketplace.
 
@@ -165,7 +165,7 @@ The portfolio was successfully deployed and accessible online. This strengthened
 
 📂 Evidence: User Stories PDF | Task Breakdown PDF
 
-📌 3. Product Backlog
+## 📌 3. Product Backlog
 
 🔴 Situation: The team needed an organised way to manage project requirements and priorities.
 
@@ -177,7 +177,7 @@ The portfolio was successfully deployed and accessible online. This strengthened
 
 📂 Evidence: Open PartLink Trello Board
 
-📌 4. Sprint Backlog – Sprint 8
+## 📌 4. Sprint Backlog – Sprint 8
 
 🔴 Situation: I joined the project after the earlier sprints had started.
 
@@ -189,7 +189,7 @@ The portfolio was successfully deployed and accessible online. This strengthened
 
 📂 Evidence: View PartLink Trello Board
 
-📌 5. Personal Agile Logbook
+## 📌 5. Personal Agile Logbook
 
 🔴 Situation: I joined the PartLink group later in the project.
 
